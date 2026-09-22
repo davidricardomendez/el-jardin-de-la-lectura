@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#f6f3eb"><meta name="description" content="El jardín de la lectura. Algunos nos encantaron, otros no tanto.">
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%2032%2032%22%3E%3Crect%20width%3D%2232%22%20height%3D%2232%22%20rx%3D%227%22%20fill%3D%22%23293c31%22/%3E%3Ctext%20x%3D%2216%22%20y%3D%2223%22%20text-anchor%3D%22middle%22%20font-family%3D%22Georgia%2Cserif%22%20font-size%3D%2224%22%20fill%3D%22%23f6f3eb%22%3EJ%3C/text%3E%3C/svg%3E"><title>El jardín de la lectura</title>
+<link rel="stylesheet" href="style.css"><script src="app.js" defer></script>
+</head>
+<body>
+<a class="skip" href="#jardin">Ir a los libros</a>
+<header class="header"><a class="wordmark" href="#inicio">El jardín <i>de la lectura</i></a><nav aria-label="Navegación principal"><a href="#jardin">Nuestro jardín</a><a href="#autores">Autores</a><a href="#miembros">Miembros</a></nav></header>
+<main>
+<section class="hero" id="inicio"><img class="botanical" src="assets/botanical.webp" alt="" aria-hidden="true"><div class="hero-copy"><p class="eyebrow">CLUB DE LECTURA</p><h1>El jardín<br><em>de la lectura</em></h1><p class="tagline">Los libros que hemos ido leyendo juntos.</p><p class="intro">Algunos nos encantaron, otros no tanto.</p></div></section>
+<section id="jardin" class="garden"><div class="section-top"><h2>Nuestro jardín</h2><div class="filters" role="group" aria-label="Filtrar lecturas por ronda"><button aria-pressed="true" data-round="all">Todos</button><button aria-pressed="false" data-round="1">Primera ronda</button><button aria-pressed="false" data-round="2">Segunda ronda</button><button aria-pressed="false" data-round="3">Tercera ronda</button></div></div><div id="rounds"></div><p class="sr-only" id="filter-status" aria-live="polite"></p></section>
+<section id="autores" class="directory"><div class="directory-heading"><p class="eyebrow">ÍNDICE LITERARIO</p><h2>Autores</h2></div><div id="author-list" class="author-list"></div></section>
+<section id="miembros" class="directory members-section"><div class="directory-heading"><p class="eyebrow">LECTURAS COMPARTIDAS</p><h2>Miembros</h2></div><div id="member-list" class="member-list"></div></section>
+<div class="summary" aria-label="Resumen del club"><p><strong>20</strong> turnos de elección</p><p><strong>23</strong> obras o textos</p><p><strong>9</strong> miembros que han realizado propuestas</p></div>
+</main>
+<footer><p>El jardín seguirá creciendo.</p><small>El jardín de la lectura</small></footer>
+</body></html>
