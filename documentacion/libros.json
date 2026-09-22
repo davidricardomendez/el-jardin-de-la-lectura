@@ -1,0 +1,233 @@
+[
+  {
+    "title": "Una historia ridícula",
+    "authors": [
+      "Luis Landero"
+    ],
+    "member": "Toni",
+    "round": 1,
+    "turn": 1,
+    "cover": "assets/cover-01.jpg"
+  },
+  {
+    "title": "Flores para Algernon",
+    "authors": [
+      "Daniel Keyes"
+    ],
+    "member": "Mateo",
+    "round": 1,
+    "turn": 2,
+    "cover": "assets/cover-02.jpg"
+  },
+  {
+    "title": "La juventud atracada",
+    "authors": [
+      "José Ignacio Conde-Ruiz",
+      "Carlotta Conde Gasca"
+    ],
+    "member": "Fernando",
+    "round": 1,
+    "turn": 3,
+    "cover": "assets/cover-03.jpg"
+  },
+  {
+    "title": "El segador",
+    "authors": [
+      "Terry Pratchett"
+    ],
+    "member": "Alex",
+    "round": 1,
+    "turn": 4,
+    "cover": "assets/cover-04.jpg"
+  },
+  {
+    "title": "En el camino",
+    "authors": [
+      "Jack Kerouac"
+    ],
+    "member": "Carba",
+    "round": 1,
+    "turn": 5,
+    "cover": "assets/cover-05.jpg"
+  },
+  {
+    "title": "El príncipe destronado",
+    "authors": [
+      "Miguel Delibes"
+    ],
+    "member": "Alberto",
+    "round": 1,
+    "turn": 6,
+    "cover": "assets/cover-06.jpg"
+  },
+  {
+    "title": "La nieta del señor Linh",
+    "authors": [
+      "Philippe Claudel"
+    ],
+    "member": "Simón",
+    "round": 1,
+    "turn": 7,
+    "cover": "assets/cover-07.jpg"
+  },
+  {
+    "title": "Los mares del sur",
+    "authors": [
+      "Manuel Vázquez Montalbán"
+    ],
+    "member": "David",
+    "round": 1,
+    "turn": 8,
+    "cover": "assets/cover-08.jpg"
+  },
+  {
+    "title": "Sab",
+    "authors": [
+      "Gertrudis Gómez de Avellaneda"
+    ],
+    "member": "Toni",
+    "round": 2,
+    "turn": 9,
+    "cover": "assets/cover-09.jpg"
+  },
+  {
+    "title": "El terremoto en Chile",
+    "authors": [
+      "Heinrich von Kleist"
+    ],
+    "member": "Mateo",
+    "round": 2,
+    "turn": 10,
+    "cover": "assets/cover-10.jpg"
+  },
+  {
+    "title": "Informe para una academia",
+    "authors": [
+      "Franz Kafka"
+    ],
+    "member": "Mateo",
+    "round": 2,
+    "turn": 10,
+    "cover": "assets/cover-11.jpg"
+  },
+  {
+    "title": "¿Cuánta tierra necesita un hombre?",
+    "authors": [
+      "Lev Tolstói"
+    ],
+    "member": "Mateo",
+    "round": 2,
+    "turn": 10,
+    "cover": "assets/cover-12.jpg"
+  },
+  {
+    "title": "Cadáver exquisito",
+    "authors": [
+      "Agustina Bazterrica"
+    ],
+    "member": "Fernando",
+    "round": 2,
+    "turn": 11,
+    "cover": "assets/cover-13.jpg"
+  },
+  {
+    "title": "El señor de las moscas",
+    "authors": [
+      "William Golding"
+    ],
+    "member": "Alex",
+    "round": 2,
+    "turn": 12,
+    "cover": "assets/cover-14.jpg"
+  },
+  {
+    "title": "Gente normal",
+    "authors": [
+      "Sally Rooney"
+    ],
+    "member": "Carba",
+    "round": 2,
+    "turn": 13,
+    "cover": "assets/cover-15.jpg"
+  },
+  {
+    "title": "Atrapa al pez dorado",
+    "authors": [
+      "David Lynch"
+    ],
+    "member": "Alberto",
+    "round": 2,
+    "turn": 14,
+    "cover": "assets/cover-16.jpg"
+  },
+  {
+    "title": "Cartas a un joven poeta",
+    "authors": [
+      "Rainer Maria Rilke"
+    ],
+    "member": "Alberto",
+    "round": 2,
+    "turn": 14,
+    "cover": "assets/cover-17.jpg"
+  },
+  {
+    "title": "Fahrenheit 451",
+    "authors": [
+      "Ray Bradbury"
+    ],
+    "member": "Carlos",
+    "round": 2,
+    "turn": 15,
+    "cover": "assets/cover-18.jpg"
+  },
+  {
+    "title": "Ubik",
+    "authors": [
+      "Philip K. Dick"
+    ],
+    "member": "David",
+    "round": 2,
+    "turn": 16,
+    "cover": "assets/cover-19.jpg"
+  },
+  {
+    "title": "A sangre y fuego",
+    "authors": [
+      "Manuel Chaves Nogales"
+    ],
+    "member": "Toni",
+    "round": 3,
+    "turn": 17,
+    "cover": "assets/cover-20.jpg"
+  },
+  {
+    "title": "Cándido",
+    "authors": [
+      "Voltaire"
+    ],
+    "member": "Mateo",
+    "round": 3,
+    "turn": 18,
+    "cover": "assets/cover-21.jpg"
+  },
+  {
+    "title": "Mil cosas",
+    "authors": [
+      "Juan Tallón"
+    ],
+    "member": "Fernando",
+    "round": 3,
+    "turn": 19,
+    "cover": "assets/cover-22.jpg"
+  },
+  {
+    "title": "El viejo y el mar",
+    "authors": [
+      "Ernest Hemingway"
+    ],
+    "member": "Alex",
+    "round": 3,
+    "turn": 20,
+    "cover": "assets/cover-23.jpg"
+  }
+]
