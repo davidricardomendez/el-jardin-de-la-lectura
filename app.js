@@ -21,7 +21,8 @@ const books = [
 ['A sangre y fuego',['Manuel Chaves Nogales'],'Toni',3,17],
 ['Cándido',['Voltaire'],'Mateo',3,18],
 ['Mil cosas',['Juan Tallón'],'Fernando',3,19],
-['El viejo y el mar',['Ernest Hemingway'],'Alex',3,20]
+['El viejo y el mar',['Ernest Hemingway'],'Alex',3,20],
+['El espejo del cerebro',['Nazareth Castellanos'],'Carba',3,21]
 ].map(([title,authors,member,round,turn],i)=>({title,authors,member,round,turn,cover:`assets/cover-${String(i+1).padStart(2,'0')}.jpg`}));
 const names=['Primera ronda','Segunda ronda','Tercera ronda'];
 function el(tag,className,text){const node=document.createElement(tag);if(className)node.className=className;if(text!==undefined)node.textContent=text;return node}

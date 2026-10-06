@@ -229,5 +229,15 @@
     "round": 3,
     "turn": 20,
     "cover": "assets/cover-23.jpg"
+  },
+  {
+    "title": "El espejo del cerebro",
+    "authors": [
+      "Nazareth Castellanos"
+    ],
+    "member": "Carba",
+    "round": 3,
+    "turn": 21,
+    "cover": "assets/cover-24.jpg"
   }
 ]

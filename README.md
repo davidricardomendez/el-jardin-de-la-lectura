@@ -1,6 +1,8 @@
 # El jardín de la lectura — copia original para GitHub Pages
 
-Esta carpeta contiene el código original de la versión 3 del Site, con las portadas ordenadas de forma continua por rondas: 8, 11 y 4 obras. No requiere reconstrucción ni instalación.
+Esta carpeta parte del código original de la versión 3 del Site, con las portadas ordenadas de forma continua por rondas: 8, 11 y 5 obras. No requiere reconstrucción ni instalación.
+
+Actualización del 6 de octubre de 2026: añadido «El espejo del cerebro», de Nazareth Castellanos, propuesto por Carba en la tercera ronda (turno 21). El catálogo contiene 24 obras o textos.
 
 ## Publicar
 
@@ -26,7 +28,7 @@ Abre `index.html` en un navegador con JavaScript habilitado. También puedes ser
 - `index.html`: estructura y textos fijos.
 - `style.css`: CSS original completo.
 - `app.js`: catálogo, generación de galerías, autores, miembros y filtros.
-- `assets/`: 23 portadas JPEG y la ilustración botánica WebP.
+- `assets/`: 24 portadas JPEG y la ilustración botánica WebP.
 - `documentacion/RECONSTRUCCION_COMPLETA.md`: especificación exhaustiva y código íntegro.
 - `documentacion/libros.json`: copia legible del catálogo; informativa, no cargada por la web.
 - `documentacion/imagenes.json`: procedencia, dimensiones y huellas de portadas.

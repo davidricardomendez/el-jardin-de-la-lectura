@@ -1,5 +1,7 @@
 # El jardín de la lectura — especificación completa y código original
 
+> Documento histórico de la exportación original. Para reconstruir la versión actual, utiliza los archivos de la raíz y `libros.json` e `imagenes.json`. El 6 de octubre de 2026 se añadió «El espejo del cerebro», de Nazareth Castellanos, propuesto por Carba en la tercera ronda (turno 21): 24 obras o textos y 21 turnos.
+
 Exportación de la versión 3 publicada el 22 de septiembre de 2026. Fuente local comprobada: commit `484550200f6b1d9c70152144ae76f86d2742da1c`. El servicio Sites indica versión actual 3 al exportar.
 
 URL de referencia: https://el-jardin-de-la-lectura.xianagarza5.chatgpt.site/

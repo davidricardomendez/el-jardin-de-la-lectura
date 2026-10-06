@@ -254,5 +254,16 @@
     "width": 250,
     "height": 386,
     "sha256": "cbf7ce08936b34fab6645b021cd1fe7dbb4a0bd8721281dc2735f36ba6aa1123"
+  },
+  {
+    "title": "El espejo del cerebro",
+    "local_path": "assets/cover-24.jpg",
+    "source_url": "https://nazarethcastellanos.com/project/el-espejo-del-cerebro/",
+    "image_url": "https://imagessl5.casadellibro.com/a/l/s7/34/9788418657634.webp",
+    "source_width": 552,
+    "source_height": 913,
+    "width": 399,
+    "height": 660,
+    "sha256": "18574f0e215b85273f9dbd09697d74986e96891f54fedcb1d69b0c4ac1262c25"
   }
 ]
